@@ -6,12 +6,8 @@
 
 ## Link
 
-[https://www.frazix.tk/](https://www.frazix.tk/)
-## Tutorial
-
-**Watch how You Can Get Your Own website on YouTube:**
-
-[![YouTube thumbnail](./doc/thumb.png)](https://www.youtube.com/watch?v=PChJL1Oh0bo)
+[https://my.brutalmc.ml](https://my.brutalmc.ml)
+## Tutorial In Devislife
 
 ## License
 
@@ -19,7 +15,7 @@ MIT License.
 
 You can create your own homepage for free without notifying me by forking this project under the following conditions:
 
-- Add a link to [my homepage](https://www.frazix.tk/)
+- Add a link to [my homepage](https://my.brutalmc.ml)
 - Do not use the 3d Cube.
 
 ---
