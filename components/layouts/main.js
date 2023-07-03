@@ -42,7 +42,7 @@ const Main = ({ children, router }) => {
         />
         <meta
           property="og:image"
-          content="https://res.cloudinary.com/dq4ksj85g/image/upload/v1688398459/standard_2_r23d5s.gif"
+          content="https://res.cloudinary.com/dq4ksj85g/image/upload/v1688399225/static_2_z12jqo.png"
         />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://frazix.tk/" />
@@ -53,7 +53,7 @@ const Main = ({ children, router }) => {
         />
         <meta
           property="twitter:image"
-          content="https://res.cloudinary.com/dq4ksj85g/image/upload/v1688398459/standard_2_r23d5s.gif"
+          content="https://res.cloudinary.com/dq4ksj85g/image/upload/v1688399225/static_2_z12jqo.png"
         />
 
         <title>Snowy - Homepage</title>
