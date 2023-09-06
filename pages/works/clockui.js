@@ -13,10 +13,10 @@ const Work = () => (
         <ListItem>
           <Meta>Website</Meta>
           <Link
-            href="https://clock.brutalmc.ml"
+            href="https://op-clock-website.haycraft.repl.co"
             target="_blank"
           >
-            clock.brutalmc.ml <ExternalLinkIcon mx="2px" />
+            op-clock-website.haycraft.repl.co <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
       </List>
